@@ -1,0 +1,6 @@
+What is software as a service?
+Software as a service (SaaS) is a software distribution model in which a cloud provider hosts applications and makes them available to end users over the internet. In this model, an independent software vendor (ISV) may contract a third-party cloud provider to host the application. Or, with larger companies, such as Microsoft, the cloud provider might also be the software vendor.
+
+SaaS is one of three main categories of cloud computing, alongside infrastructure as a service (IaaS) and platform as a service (PaaS). A range of IT professionals, business users and personal users use SaaS applications. Products range from personal entertainment, such as Netflix, to advanced IT tools. Unlike IaaS and PaaS, SaaS products are frequently marketed to both B2B and B2C users.
+
+According to a recent McKinsey & Company report, technology industry analysts predict further growth in the software as a service market, and expect to see the market for SaaS products near $200 billion by 2024.
